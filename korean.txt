@@ -1,165 +1,97 @@
 [None]
-
-    None=None
-
-    Font=normal
+    None=없음
+    Font=보통
 
 [General]
-
-    Cancel=Cancel
-
-    Close=Close
-
-    Open_Settings_Button=Settings
-
-    Open_Cheats_Button=Cheats
-
-    Help=Help
-
-    Build_Rocket=Build Rocket
-
-    Resume_Game=Resume Game
-
-    Return_To_Main_Menu=Main Menu
-
-    Exit_To_Main_Menu=Exit To Main Menu
+    Cancel=취소
+    Close=닫기
+    Open_Settings_Button=설정
+    Open_Cheats_Button=치트
+    Help=도움말
+    Build_Rocket=로켓 건설
+    Resume_Game=게임 재개
+    Return_To_Main_Menu=메인 메뉴로 돌아가기
+    Exit_To_Main_Menu=메인 메뉴로 나가기
 
 [Main Menu]
-
-    Play=Play
+    Play=놀다
 
 # Tutorial
+    Video_Tutorials_OpenButton=비디오 튜토리얼
+    Video_Orbit=궤도 튜토리얼
+    Video_Moon=달 튜토리얼
+    Video_Dock=도킹 튜토리얼
 
-    Video_Tutorials_OpenButton=Video Tutorials
-
-    Video_Orbit=Orbit Tutorial
-
-    Video_Moon=Moon Tutorial
-
-    Video_Dock=Docking Tutorial
 
 # Community
+    Community_OpenButton=커뮤니티
+    Community_Youtube=유튜브
+    Community_Discord=디스코드
+    Community_Reddit=레딧
+    Community_Forums=포럼
 
-    Community_OpenButton=Community
-
-    Community_Youtube=Youtube
-
-    Community_Discord=Discord
-
-    Community_Reddit=Reddit
-
-    Community_Forums=Forums
 
 # Credits
-
-    Credits_OpenButton=Credits
-
+    Credits_OpenButton=크레딧
     Credits_Text=Štefo Mai Morojna
-
-    Credits_Text=<Size=55> Designer - Programmer - Artist </size>
-
+    Credits_Text=<Size=55> 디자이너 - 프로그래머 - 아티스트 </size>
     Credits_Text=
-
     Credits_Text=Jordi van der Molen
-
-    Credits_Text=<Size=55> Programmer </size>
-
+    Credits_Text=<Size=55> 프로그래머 </size>
     Credits_Text=
-
     Credits_Text=Chris Christo
-
-    Credits_Text=<Size=55> Programmer </size>
-
+    Credits_Text=<Size=55> 프로그래머 </size>
     Credits_Text=
-
     Credits_Text=Josh
-
-    Credits_Text=<Size=55> Programmer </size>
-
+    Credits_Text=<Size=55> 프로그래머 </size>
     Credits_Text=
-
     Credits_Text=Aidan
-
-    Credits_Text=<Size=55> Programmer </size>
-
+    Credits_Text=<Size=55> 프로그래머 </size>
     Credits_Text=
-
     Credits_Text=Andrey Onischenko
-
-    Credits_Text=<Size=55> Programmer </size>
-
+    Credits_Text=<Size=55> 프로그래머 </size>
     Credits_Text=
-
     Credits_Text=Davi Vasc
-
-    Credits_Text=<Size=55> Composer </size>
-
+    Credits_Text=<Size=55> 작곡가 </size>
     Credits_Text=
-
     Credits_Text=Ashton Mills
+    Credits_Text=<size=55> 작곡가 </size>
 
-    Credits_Text=<size=55> Composer </size>
 
 # Update menu
-
     Update_Available=A new update is available!
-
     Update_Available=
-
     Update_Available=Current version: %old%
-
     Update_Available=Latest version: %new%
-
     Update_Confirm=Update
-
     Update_Overview_Video_Available=Check out what's new this update?
-
     Update_Overview_Video_Confirm=Open
 
 # Rate menu
-
     Rate_Title=Would you like to rate or review the game?
-
     Rate_Title=
-
     Rate_Title=We deeply care about the quality of our game, your feedback helps us improve it
-
     Rate_Title=
-
     Rate_Title=Even after thousands of reviews, we still read a large number of them!
-
     Rate_Confirm=Rate
 
 # Close menu
-
     Exit_Button=Exit
-
     Close_Game=Close game?
 
 [Worlds Menu]
-
     Create_New_World_Button=Create New World
-
     World_Delete=Delete world?
 
 # Create menu
-
     Create_World_Title=World Name
-
     Default_World_Name=My World
-
     Select_Solar_System=Select world's solar system
-
     Select_Solar_System__NotFound=Solar system could not be found:
-
     Select_Solar_System__NotFound=%system%
-
     Select_Solar_System__NotFound=
-
     Select_Solar_System__NotFound=Select a new solar system
-
     Default_Solar_System=Solar System (Default)
-
     Custom_Solar_System=%name% (Custom)
 
 # World info
